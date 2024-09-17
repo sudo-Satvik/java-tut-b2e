@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MissionFAANG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/A_HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/B_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/C_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/D_TypeConv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/E_If_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/F_ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/Downcasting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/G_Final1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/G_Final2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/G_Final3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/H_MultilevelPoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/H_PolyDataMem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/H_PolyRun1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/H_PolyRun2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/H_Upcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/I_Downcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/I_Instanceof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/I_Instanceof2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/J_Covariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/K_AbstractClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/K_AbstractClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/K_Abstraction1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/K_Abstraction2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/L_Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/L_MultipleInheritance1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/M_ExcHan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/M_ExcHan2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/M_Throw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/M_Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/AutoBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/BoundedGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/GenericMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/UnBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/WrapperClasses2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/m_pkgpractice/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/n_encapsulation/EmployeeRW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/n_encapsulation/EmployeeRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/n_encapsulation/RW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/n_encapsulation/Stud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/pkgpractice2/B2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2lT0Q5GbIpFFLFTMmpgXXLt57Uk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AutoBoxing.executor": "Run",
+    "Application.B2.executor": "Run",
+    "Application.BoundedGeneric.executor": "Run",
+    "Application.Downcasting2.executor": "Run",
+    "Application.EmployeeRW.executor": "Run",
+    "Application.Employeee.executor": "Run",
+    "Application.Even.executor": "Run",
+    "Application.F_InstanceInializerBlock.executor": "Run",
+    "Application.GenericClass.executor": "Run",
+    "Application.GenericMethods.executor": "Run",
+    "Application.H_MultilevelPoly.executor": "Run",
+    "Application.H_PR1.executor": "Run",
+    "Application.H_PolyDataMem.executor": "Run",
+    "Application.H_PolyRun1.executor": "Run",
+    "Application.H_PolyRun2.executor": "Run",
+    "Application.I_Downcasting.executor": "Run",
+    "Application.I_Instanceof.executor": "Run",
+    "Application.I_Instanceof2.executor": "Run",
+    "Application.J_Covariant.executor": "Run",
+    "Application.K_AbstractClass1.executor": "Run",
+    "Application.K_AbstractClass3.executor": "Run",
+    "Application.K_Abstraction1.executor": "Run",
+    "Application.K_Abstraction2.executor": "Run",
+    "Application.L_Interface1.executor": "Run",
+    "Application.L_MultipleInheritance1.executor": "Run",
+    "Application.M_ExcHan.executor": "Run",
+    "Application.M_ExcHan2.executor": "Run",
+    "Application.M_Throw.executor": "Run",
+    "Application.MaxMinArr.executor": "Run",
+    "Application.RW.executor": "Run",
+    "Application.Second2.executor": "Run",
+    "Application.UnBoxing.executor": "Run",
+    "Application.WrapperClasses.executor": "Run",
+    "Application.WrapperClasses2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="" />
+      <created>1725188740056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725188740056</updated>
+    </task>
+    <servers />
+  </component>
+</project>
