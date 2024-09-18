@@ -4,56 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MissionFAANG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_basic/A_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_basic/B_Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_basic/C_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_basic/D_TypeConv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_basic/E_If_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_basic/F_ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/Downcasting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/G_Final1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/G_Final2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/G_Final3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/H_MultilevelPoly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/H_PolyDataMem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/H_PolyRun1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/H_PolyRun2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/H_Upcasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/I_Downcasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/I_Instanceof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/I_Instanceof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/J_Covariant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/K_AbstractClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/K_AbstractClass3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/K_Abstraction1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/K_Abstraction2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/L_Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/L_MultipleInheritance1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/M_ExcHan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/M_ExcHan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/M_Throw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/M_Throws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/AutoBoxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/BoundedGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/UnBoxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/WrapperClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/generic_classes/WrapperClasses2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/m_pkgpractice/A1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/n_encapsulation/EmployeeRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/n_encapsulation/EmployeeRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/n_encapsulation/RW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/n_encapsulation/Stud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/pkgpractice2/B2.java" afterDir="false" />
+    <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="Almost completed Generic Class">
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sudo-Satvik&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sudo-Satvik/java-tut-b2e.git&quot;,
+    &quot;accountId&quot;: &quot;45274fe8-efb8-45e8-9f2c-5a628bb8e25d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -83,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.A_Inheritance1.executor": "Run",
     "Application.AutoBoxing.executor": "Run",
     "Application.B2.executor": "Run",
     "Application.BoundedGeneric.executor": "Run",
@@ -112,6 +78,7 @@
     "Application.M_ExcHan2.executor": "Run",
     "Application.M_Throw.executor": "Run",
     "Application.MaxMinArr.executor": "Run",
+    "Application.Methods.executor": "Run",
     "Application.RW.executor": "Run",
     "Application.Second2.executor": "Run",
     "Application.UnBoxing.executor": "Run",
@@ -132,6 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725188740056</updated>
     </task>
+    <task id="LOCAL-00001" summary="Almost completed Generic Class">
+      <option name="closed" value="true" />
+      <created>1726596342131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726596342131</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Almost completed Generic Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost completed Generic Class" />
   </component>
 </project>
