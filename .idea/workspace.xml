@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="Almost completed Generic Class">
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/Methods.java" afterDir="false" />
+    <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="Completed the intro of Collection Frameworks">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/IteratingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/LinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/Stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/Vectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/iterator/Iterator1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.A_Inheritance1.executor": "Run",
+    "Application.ArrayLists.executor": "Run",
     "Application.AutoBoxing.executor": "Run",
     "Application.B2.executor": "Run",
     "Application.BoundedGeneric.executor": "Run",
@@ -67,6 +74,7 @@
     "Application.I_Downcasting.executor": "Run",
     "Application.I_Instanceof.executor": "Run",
     "Application.I_Instanceof2.executor": "Run",
+    "Application.IteratingList.executor": "Run",
     "Application.J_Covariant.executor": "Run",
     "Application.K_AbstractClass1.executor": "Run",
     "Application.K_AbstractClass3.executor": "Run",
@@ -74,6 +82,7 @@
     "Application.K_Abstraction2.executor": "Run",
     "Application.L_Interface1.executor": "Run",
     "Application.L_MultipleInheritance1.executor": "Run",
+    "Application.LinkedLists.executor": "Run",
     "Application.M_ExcHan.executor": "Run",
     "Application.M_ExcHan2.executor": "Run",
     "Application.M_Throw.executor": "Run",
@@ -81,10 +90,13 @@
     "Application.Methods.executor": "Run",
     "Application.RW.executor": "Run",
     "Application.Second2.executor": "Run",
+    "Application.Stacks.executor": "Run",
     "Application.UnBoxing.executor": "Run",
+    "Application.Vectors.executor": "Run",
     "Application.WrapperClasses.executor": "Run",
     "Application.WrapperClasses2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.keymap"
@@ -107,11 +119,20 @@
       <option name="project" value="LOCAL" />
       <updated>1726596342131</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed the intro of Collection Frameworks">
+      <option name="closed" value="true" />
+      <created>1726647272585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726647272585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Almost completed Generic Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Almost completed Generic Class" />
+    <MESSAGE value="Completed the intro of Collection Frameworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the intro of Collection Frameworks" />
   </component>
 </project>
