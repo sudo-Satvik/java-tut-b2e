@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="Completed the intro of Collection Frameworks">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/IteratingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/LinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/collectioninterface/Vectors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_advance_oops/collectionframework/iterator/Iterator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/Square2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/Square3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/Square4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/Traingle3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/Triangle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/Triangle4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/Triangle5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +92,15 @@
     "Application.Methods.executor": "Run",
     "Application.RW.executor": "Run",
     "Application.Second2.executor": "Run",
+    "Application.Square.executor": "Run",
+    "Application.Square2.executor": "Run",
+    "Application.Square3.executor": "Run",
+    "Application.Square4.executor": "Run",
     "Application.Stacks.executor": "Run",
+    "Application.Traingle3.executor": "Run",
+    "Application.Triangle.executor": "Run",
+    "Application.Triangle2.executor": "Run",
+    "Application.Triangle4.executor": "Run",
     "Application.UnBoxing.executor": "Run",
     "Application.Vectors.executor": "Run",
     "Application.WrapperClasses.executor": "Run",
@@ -127,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726647272585</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed the intro of Collection Frameworks">
+      <option name="closed" value="true" />
+      <created>1726664345820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726664345820</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
