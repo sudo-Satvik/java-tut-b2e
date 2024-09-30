@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="Pattern initiated and done upto Floyd's Triangle!">
-      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/InvertedTriangle.java" afterDir="false" />
+    <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="Inverted Triangle Done">
+      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/PyramidTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_basic/patterns/Triangle6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basic/patterns/Triangle6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +83,7 @@
     "Application.M_Throw.executor": "Run",
     "Application.MaxMinArr.executor": "Run",
     "Application.Methods.executor": "Run",
+    "Application.PyramidTriangle.executor": "Run",
     "Application.RW.executor": "Run",
     "Application.Second2.executor": "Run",
     "Application.Square.executor": "Run",
@@ -149,13 +149,22 @@
       <option name="project" value="LOCAL" />
       <updated>1727695663048</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Inverted Triangle Done">
+      <option name="closed" value="true" />
+      <created>1727697028404</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727697028404</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Almost completed Generic Class" />
     <MESSAGE value="Completed the intro of Collection Frameworks" />
     <MESSAGE value="Pattern initiated and done upto Floyd's Triangle!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern initiated and done upto Floyd's Triangle!" />
+    <MESSAGE value="Inverted Triangle Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inverted Triangle Done" />
   </component>
 </project>
