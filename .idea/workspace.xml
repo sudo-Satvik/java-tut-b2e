@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="Hollow diamond finished">
-      <change afterPath="$PROJECT_DIR$/src/a_basic/patterns/Butterfly.java" afterDir="false" />
+    <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="Butterfly pattern finished">
+      <change afterPath="$PROJECT_DIR$/src/a_basic/G_ShallowCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic/H_DeepCopy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +60,10 @@
     "Application.Employeee.executor": "Run",
     "Application.Even.executor": "Run",
     "Application.F_InstanceInializerBlock.executor": "Run",
+    "Application.G_ShallowCopy.executor": "Run",
     "Application.GenericClass.executor": "Run",
     "Application.GenericMethods.executor": "Run",
+    "Application.H_DeepCopy.executor": "Run",
     "Application.H_MultilevelPoly.executor": "Run",
     "Application.H_PR1.executor": "Run",
     "Application.H_PolyDataMem.executor": "Run",
@@ -105,8 +108,10 @@
     "Application.WrapperClasses2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Practice/Java + DSA/MissionFAANG",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -183,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727762881821</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Butterfly pattern finished">
+      <option name="closed" value="true" />
+      <created>1727764080663</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727764080663</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,6 +207,7 @@
     <MESSAGE value="Pascal Triangle Pattern Done" />
     <MESSAGE value="Hollow Diamond Initiated but will continue tomorrow" />
     <MESSAGE value="Hollow diamond finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hollow diamond finished" />
+    <MESSAGE value="Butterfly pattern finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Butterfly pattern finished" />
   </component>
 </project>
