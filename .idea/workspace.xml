@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81304d1-14fd-4ea8-a890-77a0f580af86" name="Changes" comment="Butterfly pattern finished">
-      <change afterPath="$PROJECT_DIR$/src/a_basic/G_ShallowCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_basic/H_DeepCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d_collection_frameworks/01-info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d_collection_frameworks/A_ArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;sudo-Satvik&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/sudo-Satvik/java-tut-b2e.git&quot;,
-    &quot;accountId&quot;: &quot;45274fe8-efb8-45e8-9f2c-5a628bb8e25d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sudo-Satvik/java-tut-b2e.git",
+    "accountId": "5bedb6b9-5228-4dfd-9edc-b1aaa39bd94a"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -49,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.A_ArrayList.executor": "Run",
     "Application.A_Inheritance1.executor": "Run",
     "Application.ArrayLists.executor": "Run",
     "Application.AutoBoxing.executor": "Run",
@@ -107,8 +108,10 @@
     "Application.WrapperClasses.executor": "Run",
     "Application.WrapperClasses2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "create.test.in.the.same.root": "true",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "F:/Practice/Java + DSA/MissionFAANG",

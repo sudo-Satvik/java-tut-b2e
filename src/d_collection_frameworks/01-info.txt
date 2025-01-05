@@ -1,0 +1,16 @@
+The Java platform includes a collections framework.
+A collection is an object that represents a group of objects (such as the classic Vector class).
+A collections framework is a unified architecture for representing and manipulating collections, enabling collections to be manipulated independently of implementation details.
+
+=========================================================================
+
+Under the collection framework there is Collection<E> interface (superInterface is Iterable<E> Interface). The collection interface consists of:-
+1. List<E>
+2. Queue<E>     -> Deque<E>
+3. Vector<E>
+4. Set<E>
+
+There's another which called Map Interface!
+1. HashTable interface
+2. HashMap interface
+3. SortedMap interface -> TreeMap class
